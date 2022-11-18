@@ -1,0 +1,18 @@
+C:\Users\Ethan\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Ethan\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Ethan\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Ethan\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.Lab4.resources
+C:\Users\Ethan\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Ethan\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Ethan\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.Lab4.resources
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\CIS 199 Labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
