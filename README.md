@@ -1,1 +1,3 @@
-# This is the repository for the C# programs I created as a Teaching Assistant for the Freshman programming class
+#Software Development I & II
+##This repository contains the c# programming projects for Spring 2020 and Fall 2021
+##My C# TA programs are contained here too.
