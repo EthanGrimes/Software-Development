@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\Prog0\Prog0\obj\Debug\netcoreapp3.1\Prog0.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Prog0\Prog0\obj\Debug\netcoreapp3.1\Prog0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\Prog0\Prog0\obj\Debug\netcoreapp3.1\Prog0.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Prog0\Prog0\obj\Debug\netcoreapp3.1\Prog0.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Prog0\Prog0\obj\Debug\netcoreapp3.1\Prog0.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Prog0\Prog0\bin\Debug\netcoreapp3.1\Prog0.exe
+C:\Users\ethan\source\repos\Prog0\Prog0\bin\Debug\netcoreapp3.1\Prog0.deps.json
+C:\Users\ethan\source\repos\Prog0\Prog0\bin\Debug\netcoreapp3.1\Prog0.runtimeconfig.json
+C:\Users\ethan\source\repos\Prog0\Prog0\bin\Debug\netcoreapp3.1\Prog0.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Prog0\Prog0\bin\Debug\netcoreapp3.1\Prog0.dll
+C:\Users\ethan\source\repos\Prog0\Prog0\bin\Debug\netcoreapp3.1\Prog0.pdb
+C:\Users\ethan\source\repos\Prog0\Prog0\obj\Debug\netcoreapp3.1\Prog0.dll
+C:\Users\ethan\source\repos\Prog0\Prog0\obj\Debug\netcoreapp3.1\Prog0.pdb
+C:\Users\ethan\source\repos\Prog0\Prog0\obj\Debug\netcoreapp3.1\Prog0.genruntimeconfig.cache
