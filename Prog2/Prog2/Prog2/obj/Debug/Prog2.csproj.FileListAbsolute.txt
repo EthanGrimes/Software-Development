@@ -1,0 +1,9 @@
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\Ethan\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.Prog2.resources
