@@ -1,0 +1,14 @@
+C:\Users\Ethan\Desktop\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Ethan\Desktop\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Ethan\Desktop\Lab7\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Ethan\Desktop\Lab7\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\Lab7\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\Ethan\Desktop\Lab7\Lab7\Lab7\obj\Debug\Lab7.pdb
+E:\CIS 199 Labs\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe.config
+E:\CIS 199 Labs\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe
+E:\CIS 199 Labs\Lab7\Lab7\Lab7\bin\Debug\Lab7.pdb
+E:\CIS 199 Labs\Lab7\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+E:\CIS 199 Labs\Lab7\Lab7\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+E:\CIS 199 Labs\Lab7\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+E:\CIS 199 Labs\Lab7\Lab7\Lab7\obj\Debug\Lab7.exe
+E:\CIS 199 Labs\Lab7\Lab7\Lab7\obj\Debug\Lab7.pdb
